@@ -1,7 +1,7 @@
 {
    "name": "dom-compare",
    "description": "Library to compare two DOM trees",
-   "version": "0.2.0",
+   "version": "0.2.1",
    "author": "Oleg Elifantiev <oleg@elifantiev.ru>",
    "contributors": [],
    "keywords": [
@@ -12,9 +12,9 @@
       "domcompare": "bin/domcompare"
    },
    "dependencies": {
-      "argparse": "latest",
-      "xmldom": "0.1.16",
-      "colors": "latest"
+      "argparse": "0.1.15",
+      "tensor-xmldom": "0.1.18",
+      "colors": "0.6.2"
    },
    "devDependencies": {
       "istanbul": "latest",
